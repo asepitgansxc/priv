@@ -3,8 +3,8 @@ from time import sleep
 from time import sleep as waktu
 from random import randint
 from os import system, name
-username = '1'
-password = '2'
+username = 'Ast'
+password = '123'
 version = 'SIA GELO'
 buffer_size = 898989
 expired = ['19', '02', '2022']
