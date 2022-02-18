@@ -4,7 +4,7 @@ from time import sleep as waktu
 from random import randint
 from os import system, name
 username = 'Ast'
-password = '123'
+password = 'd8f5caaeceb16d088d2bede6ce7a299e'
 version = 'SIA GELO'
 buffer_size = 898989
 expired = ['19', '02', '2022']
