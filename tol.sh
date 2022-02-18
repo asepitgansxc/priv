@@ -11,7 +11,7 @@ echo -e "- Created By Asep-IT Ganz
 - Email vakumhacker@gmail.com [${ijo}Tools Private Uct${nat}]\n"
 echo -e "- Peringatan : \033[31mSebelum Masuk Anda Terlebih Dahulu Untuk Memasukkan Sebuah Kata Kunci Atau Password\033[0m"
 echo ''
-pass="Vsjskdkdkdkkdkdjfjfnfnnfnfncfkkcvfbnfmf"
+pass="Vsjskdkdkdkkdkdjfjfnfnnfnfncfkkcvfnfmf"
 while [ "$user" != "$pass" ]
 do
 read -p "- NamaKamu : " nama;
